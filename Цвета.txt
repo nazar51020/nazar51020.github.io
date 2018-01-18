@@ -1,0 +1,6 @@
+#770877  Фиолетовый
+#F68D0D  Оранжевый
+
+
+<link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet">
+font-family: 'Slabo 27px', serif;
