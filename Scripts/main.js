@@ -2,10 +2,10 @@ var myImage = document.querySelector('img');
 
 myImage.onclick = function() {
     var mySrc = myImage.getAttribute('src');
-    if(mySrc === 'images/logo.jpg') {
-      myImage.setAttribute ('src','images/injir.jpg');
+    if(mySrc === 'Images/logo.jpg') {
+      myImage.setAttribute ('src','Images/injir.jpg');
     } else {
-      myImage.setAttribute ('src','images/logo.jpg');
+      myImage.setAttribute ('src','Images/logo.jpg');
     }
 }
 //knopka
